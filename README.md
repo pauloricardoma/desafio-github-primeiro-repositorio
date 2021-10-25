@@ -1,5 +1,5 @@
-# Desafio inicial Git/GitHub da DIO
-Desafio de Projeto sobre Git/GitHub
+# Desafio projeto sobre Git/GitHub da DIO
+Repositório criado para o desafio
 
 ## Links úteis
-[Sintaxe básica Makdown](https://www.markdowngruide.org/basic-syntaz/)
+[Sintaxe básica Makdown](https://www.markdownguide.org/basic-syntaz/)
